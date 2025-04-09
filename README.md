@@ -2,7 +2,7 @@
 
 This project analyzes news articles related to IBM and the IT sector to understand sentiment trends and identify prominent topics.  The analysis involves text preprocessing, sentiment analysis using TextBlob, and topic modeling with Latent Dirichlet Allocation (LDA).
 
-![sentiments over a week](images_gifs_used/daily_sentiments_ibm.png)
+![IBM words previous week](images_gifs_used/word_cloud_ibm_talks.gif)
 
 ## Data Sources
 
@@ -27,6 +27,7 @@ The project utilizes two CSV files:
     *   Uses TextBlob to analyze the sentiment of the preprocessed titles and descriptions.
     *   Calculates the polarity score for each text segment (ranging from -1 to 1, where -1 represents negative sentiment and 1 represents positive sentiment).
     *   Calculates daily average sentiment for titles and descriptions for IBM and IT sector.
+    *   ![sentiments over a week](images_gifs_used/daily_sentiments_ibm.png)
 
 3.  **Topic Modeling (LDA):**
     *   Creates a document-term matrix from the combined title and description text using CountVectorizer.
