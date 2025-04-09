@@ -8,6 +8,7 @@ The project utilizes two CSV files:
 
 *   **ibm_news.csv:** Contains news articles related to IBM.
 *   **it_sector_news.csv:** Contains news articles related to the broader IT sector.
+*   Scrapped all the data using google news api
 
 ## Methodology
 
@@ -48,6 +49,7 @@ The project produces the following output files:
 *   re
 *   textblob
 *   sklearn
+*   newsapi
 
 
 ## Further Development
