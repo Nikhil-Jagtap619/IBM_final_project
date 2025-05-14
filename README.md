@@ -1,7 +1,8 @@
 # Market Trend Analysis for IBM company
 
 This project analyzes news articles related to IBM and the IT sector to understand sentiment trends and identify prominent topics.  The analysis involves text preprocessing, sentiment analysis using TextBlob, and topic modeling with Latent Dirichlet Allocation (LDA).
-🎯 Launch Prototype: [Market Trend Analysis](https://market-trend-analysis-prototype.streamlit.app/)
+
+### 🎯 Launch Prototype: [Market Trend Analysis](https://market-trend-analysis-prototype.streamlit.app/)
 
 ![IBM words previous week](images_gifs_used/word_cloud_ibm_talks.gif)
 
