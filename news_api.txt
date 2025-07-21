@@ -1,1 +1,2 @@
 get your own api_key
+got to google newsAPIs
